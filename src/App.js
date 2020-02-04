@@ -1,5 +1,10 @@
 import React from 'react';
-import News from './News'
+import News from './components/News';
+
+
+
+
+
 
 function App() {
   return (
@@ -7,8 +12,11 @@ function App() {
       <News />
     </div>
   );
-}
+};
 
-// 81f11c094bbd48c4ae0796313e3bb0c2
 
 export default App;
+
+
+
+
